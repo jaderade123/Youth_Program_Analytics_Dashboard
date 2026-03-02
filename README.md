@@ -68,6 +68,10 @@ This is an end-to-end data collection and analysis system to track, analyze, and
 ![form totals](https://github.com/user-attachments/assets/131f8a2c-a214-4eaa-ac9d-d28293173ef2)
 
 
+### Attendance Trend Visualization, automated using COUNTIF formulas
+
+![attendance](https://github.com/user-attachments/assets/914f3aca-4b4b-463c-9814-f7f86f3b6d24)
+
 
 
 
