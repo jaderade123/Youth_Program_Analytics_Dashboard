@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is an end-to-end data collection and analysis system to track, analyze, and improve upon outreach, attendance, and CQI. I created this centralized system to track participant demographics, attendance, outreach effectiveness, and engagement strategies to inform recruitment strategies.
+Built an end-to-end data collection and analysis system to track, analyze, and improve upon outreach, attendance, and CQI. I created this centralized system to track participant demographics, attendance, outreach effectiveness, and engagement strategies to inform recruitment strategies.
 
 ## Data Sources & Tools
 
